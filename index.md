@@ -41,4 +41,8 @@ Please visit IETF 125 Shenzhen for [hotel information](https://www.ietf.org/meet
 
 * Prof. [Dirk Kutscher](https://dirk-kutscher.info/), HKUST(GZ), [dku@hkust-gz.edu.cn](mailto:dku@hkust-gz.edu.cn)
 * Prof. [Yuhan Dong](https://www.sigs.tsinghua.edu.cn/dyh_en/main.htm), Tsinghua SIGS, [dongyuhan@sz.tsinghua.edu.cn](mailto:dongyuhan@sz.tsinghua.edu.cn)
-* Prof. [Zili Meng](https://zilimeng.com/), HKUST, [zilim@ust.hk](mailto:zilim@ust.hk) 
+* Prof. [Zili Meng](https://zilimeng.com/), HKUST, [zilim@ust.hk](mailto:zilim@ust.hk)
+
+## Sponsors
+
+![HKUST Shenzhen – Hong Kong Collaborative Innovation Research Institute (SHCIRI)](https://hkust.shciri.cn/uploads/common/2023-05-25/646f047c044129.54351530.png)
