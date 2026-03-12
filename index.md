@@ -33,19 +33,21 @@ Please [register here](https://forms.gle/65X2dLbgPXnA4ciC8).
 
 If you need an invitation letter, please contact us.  
 
-## Program Outline (TBD)
+## Program
 
 | Time (UTC+8) | Event |
 | :---- | :---- |
-| **10:00 – 10:10** | **Welcome Remarks** *by Dirk Kutscher and Zili Meng (HKUST)* |
-| **10:10 – 11:10** | Is the IoT Computing Continuum Eroding the End-to-End Principle? *by Carlos Kamienski* |
-| **11:10 – 11:40** | **Coffee Break** |
-| **11:40 – 12:40** | Towards a Distributed Data Store in Orbit *by Jörg Ott* |
-| **12:40 – 14:30** | **Lunch** [UniBistros & Bars](https://www.conferencelodge.hk/en/food-beverage/unibistroandbar.html) |
-| **14:30 – 15:30** | Panel discussion |
-| **15:30 – 16:00** | **Coffee Break** |
-| **16:00 – 17:00** | WiCi: Wireless GPU Computing Infrastructure *by Zili Meng* |
-| **17:00 – 17:10** | **Wrap-Up** Chairs: Dirk Kutscher and Zili Meng (HKUST) |
+| **10:00 – 10:15** | **Welcome, Logistics, Introduction** *by Zili Meng and Dirk Kutscher* |
+| **10:15 – 11:15** | Is the IoT Computing Continuum Eroding the End-to-End Principle? *by Carlos Kamienski* |
+| **11:15 – 11:45** | **Coffee Break** |
+| **11:45 – 12:05** | Sustainable ICT: Small Place, Better Insight *by Wen Cai* |
+| **12:05 – 12:40** | Green Networking and Energy-Aware Security Protocols *by Laura Soares* |
+| **12:40 – 14:00** | **Lunch** |
+| **14:00 – 15:00** | WiCi: Wireless GPU Computing Infrastructure *by Zili Meng* |
+| **15:00 – 15:30** | **Coffee Break** |
+| **15:30 – 16:30** | Research Challenges in Agentic AI Communication *by Dirk Kutscher* |
+| **16:30 – 17:00** | Any Other Topic – *Open Discussion* |
+| **17:00** | **Finish** |
 
 ## Hotel Information
 
