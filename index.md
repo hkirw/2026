@@ -45,7 +45,7 @@ If you need an invitation letter, please contact us.
 | **11:45 – 12:05** | Sustainable ICT: Small Place, Better Insight *by Wen Cai* |
 | **12:05 – 12:40** | Green Networking and Energy-Aware Security Protocols *by Laura Soares* |
 | **12:40 – 14:00** | **Lunch** |
-| **14:00 – 15:00** | WiCi: Wireless GPU Computing Infrastructure *by Zili Meng* |
+| **14:00 – 15:00** | Source Buffer Management *by Zili Meng* |
 | **15:00 – 15:30** | **Coffee Break** |
 | **15:30 – 16:30** | Research Challenges in Agentic AI Communication *by Dirk Kutscher* |
 | **16:30 – 17:00** | Any Other Topic – *Open Discussion* |
