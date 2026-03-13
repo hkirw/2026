@@ -12,6 +12,8 @@ Room 4109, 41/F, [Changfu Jinmao Tower](https://maps.app.goo.gl/sAgZdyatGJz4cERS
 
 (in local languange: 长富金茂大厦)
 
+**How to get there:** Take a direct lift to 35/F first, then transfer to another lift to 41/F. There is a roadmap after getting out of the lift, where you can find Room 4109.
+
 [http://hkirw.github.io/2026](http://hkirw.github.io/2026)
 
 Built on the huge success of the [HKIRW 2024](http://hkirw.github.io/2024) and [HKIRW 2025](http://hkirw.github.io/2025), in the week before the [IETF-125 meeting in Shenzhen](https://www.ietf.org/how/meetings/125/), this workshop aims to bring together researchers in computer networking and systems around the globe to a live forum discussing innovative ideas at their early stages. 
